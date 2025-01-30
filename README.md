@@ -6,12 +6,15 @@ Then replace the current `h1` with the Renovate Issue/Discussion number.
 
 ## Current behavior
 
-Explain the current behavior here.
+But actual behavior is:
+FROM: org.hibernate-5.6.15.Final
+TO: org.hibernate-6.5.5.Final
 
 ## Expected behavior
-
-Explain the expected behavior here.
+I thought that renovate will replace it
+FROM: org.hibernate-5.6.15.Final
+TO: org.hibernate.orm-6.0.0.Final
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+https://github.com/renovatebot/renovate/discussions/33933
